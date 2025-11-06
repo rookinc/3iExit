@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Data
+*.zip
+*.npz
+*.h5
+*.sav
+*.mat
+*.tmp
+*.log
+
+# Large or local
+area_angle_timeseries.csv
+min_area_windows.csv
+solar_wind.csv
+geomag.csv
+elf.csv

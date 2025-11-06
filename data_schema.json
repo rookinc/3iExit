@@ -1,0 +1,19 @@
+{
+  "solar_wind.csv": [
+    "time",
+    "Vsw_kms",
+    "B_tot_nT",
+    "Bz_nT",
+    "n_p_cc"
+  ],
+  "geomag.csv": [
+    "time",
+    "H_nT"
+  ],
+  "elf.csv": [
+    "time",
+    "band_7_8",
+    "band_14",
+    "band_20_40"
+  ]
+}

@@ -1,0 +1,8 @@
+JPL HORIZONS HOWTO — vectors for 3iExit
+=======================================
+Goal: export heliocentric vectors (Sun-centered) for Earth and 3I/ATLAS, Ecliptic J2000, units AU, 1-hour cadence.
+Steps:
+1) Open JPL Horizons → 'Vector Table'.
+2) Target: Earth; Center: Sun [10]; Frame: Ecliptic & Mean Equinox of Reference Epoch (J2000); Units: AU; Step: 1 h.
+3) Export plain text. Do the same for 3I/ATLAS.
+4) Convert to CSV or use the parser from earlier notebook scripts.

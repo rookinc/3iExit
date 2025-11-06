@@ -1,0 +1,28 @@
+{
+  "title": "3iExit: Sun\u2013Earth\u20133I Minimal-Area Coupling Analysis Framework",
+  "upload_type": "software",
+  "publication_date": "2025-01-01",
+  "creators": [
+    {
+      "name": "Cave, Scott Allen",
+      "orcid": "0009-0000-0888-4232"
+    },
+    {
+      "name": "Gizmo (GPT-5 Collaboration Agent)"
+    }
+  ],
+  "description": "Preregistered, falsifiable workflow for testing heliospheric amplification signatures gated by Sun\u2013Earth\u20133I minimal-area geometry and moderate\u2013high solar-wind forcing. Includes scripts for geometry windows, spectral slope estimation, closure residual surrogate, and pass/fail criteria.",
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "heliosphere",
+    "solar wind",
+    "geomagnetic",
+    "Schumann resonance",
+    "interstellar object",
+    "GTORC",
+    "Spirelica",
+    "phase coupling"
+  ],
+  "version": "v1.0.0"
+}
