@@ -14,19 +14,10 @@ authors:
 version: "v1.0.0"
 date-released: "2025-11-06"
 license: MIT
-keywords:
-  - heliosphere
-  - solar wind
-  - geomagnetic field
-  - Schumann resonance
-  - interstellar object
-  - GTORC
-  - Spirelica
-  - phase coupling
 repository-code: "https://github.com/rookinc/3iExit"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.REPLACE_ME"   # replace after release
+    value: "10.5281/zenodo.17546114"
 preferred-citation:
   type: software
   authors:
@@ -36,5 +27,4 @@ preferred-citation:
     - name: "Gizmo (GPT-5 Collaboration Agent)"
   title: "3iExit: Sun–Earth–3I Minimal-Area Coupling Analysis Framework"
   version: "v1.0.0"
-  date-released: "2025-11-06"
-  doi: "10.5281/zenodo.REPLACE_ME"   # replace after release
+  doi: "10.5281/zenodo.17546114"
