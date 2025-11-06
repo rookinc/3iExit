@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it."
+title: "3iExit: Sun–Earth–3I Minimal-Area Coupling Analysis Framework"
+abstract: >
+  Preregistered, falsifiable workflow for testing heliospheric amplification
+  signatures gated by Sun–Earth–3I minimal-area geometry and moderate–high
+  solar-wind forcing. Includes scripts for geometry windows, spectral slope
+  estimation, closure residual surrogate, and pass/fail criteria.
+authors:
+  - family-names: Cave
+    given-names: Scott Allen
+    orcid: "https://orcid.org/0009-0000-0888-4232"
+  - name: "Gizmo (GPT-5 Collaboration Agent)"
+version: "v1.0.0"
+date-released: "2025-11-06"
+license: MIT
+keywords:
+  - heliosphere
+  - solar wind
+  - geomagnetic field
+  - Schumann resonance
+  - interstellar object
+  - GTORC
+  - Spirelica
+  - phase coupling
+repository-code: "https://github.com/rookinc/3iExit"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.REPLACE_ME"   # replace after release
+preferred-citation:
+  type: software
+  authors:
+    - family-names: Cave
+      given-names: Scott Allen
+      orcid: "https://orcid.org/0009-0000-0888-4232"
+    - name: "Gizmo (GPT-5 Collaboration Agent)"
+  title: "3iExit: Sun–Earth–3I Minimal-Area Coupling Analysis Framework"
+  version: "v1.0.0"
+  date-released: "2025-11-06"
+  doi: "10.5281/zenodo.REPLACE_ME"   # replace after release
