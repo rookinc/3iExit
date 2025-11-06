@@ -1,6 +1,9 @@
 # 3iExit
 **Sun–Earth–3I Minimal-Area Coupling — Analysis Framework**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17546114.svg)](https://doi.org/10.5281/zenodo.17546114)
+
+
 This repository contains a preregistered, falsifiable workflow to test whether
 heliospheric amplification signatures appear **only** within ±24–72 h of
 **Sun–Earth–3I minimal-area** epochs, and **only** under moderate–high solar-wind forcing.
